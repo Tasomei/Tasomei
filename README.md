@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f1d2e,100:babbf1&section=header&text=Yudeqingkong&fontColor=ffffff&fontSize=36&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f1d2e,100:babbf1&section=header&text=Tasomei&fontColor=ffffff&fontSize=36&animation=fadeIn)
 
 ![](IMG_20260225_123843_1774441760421edit.jpg)
 
 <p><em>「就算旋律终将消散，手指触碰过琴键的瞬间，永远真实存在过。」</em></p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=BABBF1&center=true&vCenter=true&width=640&lines=Hi%2C+I+am+Yudeqingkong.;Building+small+tools+for+a+better+coding+feel.;VS+Code+customization+%2F+JavaScript+experiments.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=BABBF1&center=true&vCenter=true&width=640&lines=Hi%2C+I+am+Tasomei.;Building+small+tools+for+a+better+coding+feel.;VS+Code+customization+%2F+JavaScript+experiments.)
 
 </div>
 
@@ -31,23 +31,13 @@
 
 ---
 
-## ✨ Current Project
-
-<div align="center">
-
-[![VS Code Neovide Cursor Lite](https://github-readme-stats.vercel.app/api/pin/?username=Yudeqingkong&repo=vscode-neovide-cursor-lite&theme=rose_pine&hide_border=true&bg_color=00000000)](https://github.com/Yudeqingkong/vscode-neovide-cursor-lite)
-
-</div>
-
----
-
 ## 📊 Activity
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yudeqingkong&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tasomei&theme=github_dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yudeqingkong&theme=github-dark&hide_border=true&bg_color=00000000)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tasomei&theme=github-dark&hide_border=true&bg_color=00000000)
 
 </div>
 
